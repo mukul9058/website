@@ -1,0 +1,89 @@
+@media screen and (max-width:991px) {
+    h1{
+        font-size: 2.5rem;
+    }
+    h2{
+        font-size: 1.7rem;
+    }
+    p{
+        font-size: 1rem;
+        align-items: center;
+    }
+    .navbar1{
+        width:100%;
+    } 
+    .nav-toggle{
+        display:block;
+        margin-right: 20px;
+    }
+    .nav-links{
+        display: none;
+    }
+    .section1{
+        flex-direction: column-reverse;
+    }
+    .section1-right img{
+
+        width: 700px;
+    }
+    .section1-left{
+        max-width: 100vh;
+        text-align: center;
+    }
+    .button2{
+        width: 100%;
+    }
+    .herosection1{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .herosection2{
+        flex-direction: column-reverse;
+    }
+    .herosection3 {
+        flex-direction: column-reverse;
+    }
+    .footer-button{
+        width: 110px;   
+    }
+    .button2:hover{
+        width: 100%;
+    }
+    .compani-logoes{
+
+        gap: 80px;
+    }
+    #hero{
+        flex-direction: column-reverse;
+    }
+
+
+
+}
+@media screen and (max-width:479px) {
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: 1rem;
+        align-items: center;
+    }
+    .feature-area-cart{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .section1-left{
+        max-width: 100vh
+        ;
+    }
+
+    .section1-right img{
+
+        width: 100%;
+    }
+    
+    
+}

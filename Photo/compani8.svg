@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="25px" viewBox="0 0 32 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>cake-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="181023" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Software-Development" transform="translate(-333.000000, -5004.000000)" fill="#E02020" fill-rule="nonzero">
+            <g id="Our-Tech-Expertise" transform="translate(120.000000, 4434.000000)">
+                <g id="1" transform="translate(204.000000, 354.000000)">
+                    <g id="Web">
+                        <g id="cake-logo" transform="translate(9.000000, 216.000000)">
+                            <g id="Group">
+                                <path d="M15.806,9.873 L28.172,12.943 C30.324,12.103 31.617,11.032 31.617,9.873 L31.617,4.935 C31.617,2.213 24.537,0 15.806,0 C7.076,0 0,2.213 0,4.935 L0,9.873 C0,12.596 7.076,14.806 15.806,14.806 L15.806,9.873 Z" id="Path"></path>
+                                <path d="M28.171,17.879 L15.805,14.806 L15.805,19.74 L28.171,22.814 C30.324,21.97 31.6170006,20.903 31.6170006,19.74 L31.6170006,14.806 C31.618,15.969 30.324,17.036 28.171,17.879" id="Path"></path>
+                                <path d="M0,14.806 L0,19.741 C0,22.465 7.076,24.674 15.806,24.674 L15.806,19.741 C7.076,19.741 0,17.53 0,14.806" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
